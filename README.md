@@ -23,7 +23,7 @@ https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvM3pORXdIZDd1REE
 
 Demo slides:
 
-https://docs.google.com/presentation/d/1j9XBObrCln407E7AOQMnOmN_wyVEFFjJWvTHR1ryeqM/edit#slide=id.g1c76641ce6_0_34
+https://docs.google.com/presentation/d/1j9XBObrCln407E7AOQMnOmN_wyVEFFjJWvTHR1ryeqM/edit?usp=sharing
 
 
 

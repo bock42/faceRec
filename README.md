@@ -7,14 +7,20 @@ Example images:
 Sad Keanu
 https://drive.google.com/uc?export=download&id=0B0H_0f12gCZveTJSZEMxSklSMDA
 
-Success Kid
-https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvNFZ1U1dDbmpzSkE
+Disgust Picard
+https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvVjJvSUZmekp4c0U
 
-Neutral Gosling
-https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvWkwycE90cVo1eWM
+Anger Kid
+https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvZDA4dVFrS0IySkU
 
 Happy Ysela
 https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvMlVyR2ZVU05vM1k
+
+Sad Dawson
+https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvSDNJYWxtYk5Wejg
+
+Happy Guy
+https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvM3pORXdIZDd1REE
 
 
 

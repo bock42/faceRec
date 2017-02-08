@@ -10,9 +10,6 @@ https://drive.google.com/uc?export=download&id=0B0H_0f12gCZveTJSZEMxSklSMDA
 Disgust Picard
 https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvVjJvSUZmekp4c0U
 
-Anger Kid
-https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvZDA4dVFrS0IySkU
-
 Happy Ysela
 https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvMlVyR2ZVU05vM1k
 

@@ -1,11 +1,11 @@
 # faceRec
 Facial recognition and emotion classification using Python
 
-www.faceRec.win
+# www.faceRec.win
 
 ![alt_tag](https://cloud.githubusercontent.com/assets/6589737/22865326/77a19836-f116-11e6-925b-383d71d6f650.png)
 
-### Example output:
+# Example output:
 ![alt_tag](https://cloud.githubusercontent.com/assets/6589737/22865371/800413ea-f117-11e6-9325-885bf77cfc7d.png)
 
 

@@ -10,7 +10,7 @@ Facial recognition and emotion classification using Python
 
 
 
-Example images:
+# Example images for upload:
 
 Sad Keanu
 https://drive.google.com/uc?export=download&id=0B0H_0f12gCZveTJSZEMxSklSMDA
@@ -29,7 +29,7 @@ https://drive.google.com/uc?export=download&id=0B0H_0f12gCZvM3pORXdIZDd1REE
 
 
 
-Demo slides:
+# Demo slides:
 
 https://docs.google.com/presentation/d/1j9XBObrCln407E7AOQMnOmN_wyVEFFjJWvTHR1ryeqM/edit?usp=sharing
 

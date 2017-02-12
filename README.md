@@ -1,5 +1,7 @@
 # faceRec
-Python repository to recognize faces in images
+facial recognition - emotion classification
+
+![alt_tag](https://cloud.githubusercontent.com/assets/6589737/22865326/77a19836-f116-11e6-925b-383d71d6f650.png)
 
 Example images:
 
